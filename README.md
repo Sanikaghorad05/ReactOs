@@ -1,1 +1,3 @@
-# ReactOs
+ReactOS is an open-source operating system aiming to be compatible with Microsoft Windows NT applications and drivers. Written mainly in C and C++, it mimics the Windows NT architecture with components like the kernel, hardware abstraction layer, and Win32 subsystem. ReactOS offers Windows compatibility, is lightweight, and has a modular design. Despite being in alpha, it supports basic networking, file systems, and device drivers.
+
+Common issues include system instability, limited hardware support, and application compatibility problems. These can often be addressed by testing in virtual environments, reporting bugs through GitHub or JIRA, and contributing to driver development. Developers are encouraged to follow build guidelines and engage with the community for support.# ReactOs
